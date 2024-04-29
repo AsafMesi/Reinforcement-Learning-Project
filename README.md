@@ -16,11 +16,11 @@ In this directory, you will find five Jupyter notebooks, each corresponding to a
 
 The project consists of the following notebooks:
 
-1. TabularQLearning.ipynb
-2. EmptyDQN.ipynb
-3. EmptyActorCritic.ipynb
-4. EmptyPPO.ipynb
-5. KeyDQN.ipynb
+1. [`TabularQLearning.ipynb`](https://colab.research.google.com/drive/1fohlYnhaPGsK8rSQlG-bdfuF6JjCUrM2?usp=drive_link)
+2. [`EmptyDQN.ipynb`](https://colab.research.google.com/drive/1MPucU0s1JKOEQckTeoIkx8t-ZzxNImve?usp=drive_link)
+3. [`EmptyActorCritic.ipynb`](https://colab.research.google.com/drive/17n2jjelp6kTdR7l-sOos1_QobHJQ9o4Y?usp=drive_link)
+4. [`EmptyPPO.ipynb`](https://colab.research.google.com/drive/1xFXDLGbzUbLRY_VVHH0rSo2FSOCGV-Io?usp=drive_link)
+5. [`KeyDQN.ipynb`](https://colab.research.google.com/drive/11KgFwgrWuENLcTvzA90ITQxB1krGZXqE?usp=drive_link)
 
 Each notebook is designed to guide you step-by-step through the process of implementing a specific RL algorithm to solve problems using the MiniGrid environment.
 
@@ -29,10 +29,10 @@ Each notebook is designed to guide you step-by-step through the process of imple
 To run these notebooks, you will need to include a specific Python file (`minigrid_x.py`) in your temporary disk. There are two versions of this file, each in a different directory:
 
 - **For TabularQLearning.ipynb**:
-  - Use the `minigrid_x.py` located in the "Minigrid file for Tabular" directory.
+  - Use the [`minigrid_x.py`](https://drive.google.com/file/d/1vc5qQDPRKq631ErygBz_mlb9b7eOTjeG/view?usp=drive_link) located in the "Minigrid file for Tabular" directory.
 
 - **For EmptyDQN.ipynb, EmptyActorCritic.ipynb, EmptyPPO.ipynb, KeyDQN.ipynb**:
-  - Use the `minigrid_x.py` located in the "Minigrid file for Deep RL" directory.
+  - Use the [`minigrid_x.py`](https://drive.google.com/file/d/16YB5DI2lcHtIDPdhKzVzBVLJceDh6wwF/view?usp=drive_link) located in the "Minigrid file for Deep RL" directory.
 
 ## Setup Instructions
 
